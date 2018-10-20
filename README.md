@@ -1,3 +1,36 @@
+
+# Ruby on Rails 的快速学习的体系框架；
+
+# 参考案例体系：
+https://ruby-china.github.io/rails-guides/getting_started.html
+
+https://www.techotopia.com/index.php/Ruby_Essentials
+
+https://rails.guide/
+
+Ruby on Rails 编程体系的技能体系的学习的关键所在在于：
+
+# 新手阶段 10% ；
+
+1、Ruby  的后端结构的体系的学习；
+
+2、Rails 的前端框架的体系的学习；
+
+3、Ruby on Rails 的案例体系的训练 ；
+
+# 高级新手阶段 59% ；
+
+4、针对于存在的案例给与项目的复现；
+
+# 胜任者 20% ；精通者阶段 10% ；
+
+5、针对于不存在的案例使用面板完成项目分解，从而打造自己的项目；
+
+# 专家阶段 1% ；
+
+6、针对于别人的项目的问题，快速的给与解决的方法和答疑
+
+
 # 新建一个专栏
 
 >rails new blog
